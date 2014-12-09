@@ -50,17 +50,18 @@ table {
 body {
   font-size: 1em;
   line-height: 1.5; 
-  background: #e7e7e7 url(../images/body-bg.png) 0 0 repeat;
+  background: #FBC200 url(../images/profile04.jpg) 0 0 no-repeat;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+  /*text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);*/
   color: #6d6d6d;
 }
 
 a {
-  color: #121469;
+  color: #fff;
+  font-weight: 900;
 }
 a:hover {
-  color: #121469;
+  color: #fff;
 }
 
 header {
@@ -85,7 +86,7 @@ header h2 {
 }
 
 #container {
-  background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
+  background: transparent url(../images/cover_03.jpg) 100% 0 no-repeat;
   min-height: 595px;
 }
 
@@ -252,9 +253,10 @@ h2 {
 } 
 
 h3 {
-  color: #DF9638;
-  font-size: 18px;
-  font-weight: bold;
+  color: #392A2A;
+  font-size: 32px;
+  font-weight: 900;
+  /*text-shadow: 0 2px 3px rgba(255, 255, 255, 0.3), 0 -1px 2px rgba(0, 0, 0, 0.2);*/
   margin-bottom: 8px;
 } 
  
@@ -275,16 +277,17 @@ h6 {
 } 
 
 p {
-  font-weight: 300;
+  font-weight: 900;
   margin-bottom: 20px;
+  color: #392A2A;
 }
  
 a {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 p a {
-  font-weight: 400;
+  font-weight: 900;
 }
 
 blockquote {
@@ -314,11 +317,11 @@ footer {
   padding-top: 20px;
   padding-bottom: 30px;
   font-size: 13px;
-  color: #aaa;
+  color: #fff;
 }
 
 footer a {
-  color: #666;
+  color: #fff;
 }
 footer a:hover {
   color: #444;
@@ -369,3 +372,7 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) {}
+
+#main_content {
+  margin-top: 150px;
+}
