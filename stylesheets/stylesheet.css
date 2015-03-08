@@ -50,14 +50,14 @@ table {
 body {
   font-size: 1em;
   line-height: 1.5; 
-  background: #FBBA03 url(../images/profile04.jpg) 0 0 no-repeat;
+  background: #FFE466 url(../images/jonas_suggestions.png) -30% -15% no-repeat;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   /*text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);*/
   color: #6d6d6d;
 }
 
 a {
-  color: #fff;
+  color: #000;
   font-weight: 900;
 }
 a:hover {
@@ -86,7 +86,8 @@ header h2 {
 }
 
 #container {
-  background: transparent url(../images/cover_03.jpg) 100% 0 no-repeat;
+  /*background: transparent url(../images/cover_03.jpg) 100% 0 no-repeat;*/
+  margin-top: 20px;
   min-height: 595px;
 }
 
@@ -317,11 +318,11 @@ footer {
   padding-top: 20px;
   padding-bottom: 30px;
   font-size: 13px;
-  color: #fff;
+  color: #000;
 }
 
 footer a {
-  color: #fff;
+  color: #000;
 }
 footer a:hover {
   color: #444;
