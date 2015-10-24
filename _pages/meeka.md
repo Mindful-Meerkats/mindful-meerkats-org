@@ -14,4 +14,4 @@ That is a huge claim. We know.
 
 In order to do things the right way, we currently only allow for a closed alpha testing with good fellow meerkats. 
 
-However, that does not mean that you cannot be part of it. If you would love to transform your life into a meerkat and do not want to wait until we go public, then please say [hi@mindful-meerkats.org](mailto:hi@mindful-meerkats.org).
+However, that does not mean that you cannot be part of it. If you would love to transform yourself into a Meerkat and see the world through the eyes of a Meerkat with all its possibilities **and** do not want to wait until we go public, then please say [hi@mindful-meerkats.org](mailto:hi@mindful-meerkats.org).
