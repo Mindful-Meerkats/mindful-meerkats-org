@@ -8,7 +8,9 @@ layout: page
 permalink: https://www.mindful-meerkats.org/meeka/
 published: true
 ---
-We are currently working on an exciting game that will make you live happier. Say hi to **Meeka**.
+We are currently working on an exciting game that will empower you to live a happier life by showing you the daily choices that you have.
+
+Say hi to **Meeka**.
 
 That is a huge claim. We know. 
 
