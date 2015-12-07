@@ -8,7 +8,7 @@ layout: page
 permalink: https://www.mindful-meerkats.org/
 published: true
 ---
-Mindful Meerkats is an open, not-for-profit collective of people who create ideas around sustainable behaviour. Sadly, our modern times are characterised by enormous environmental and social challenges. Climate change and rising gaps in living standards require a fundamental change of how we, the people of affluent societies, live together.
+Mindful Meerkats is an open, not-only-for-profit collective of people who create ideas around sustainable behaviour. Sadly, our modern times are characterised by enormous environmental and social challenges. Climate change and rising gaps in living standards require a fundamental change of how we, the people of affluent societies, live together.
 
 We love our planet. And we love people. It is our vision to help both by spreading ideas that help people who arguably have all they need to be happier with less. To live outwardly simple but inwardly rich, with a strong connection to other people and nature.
 
